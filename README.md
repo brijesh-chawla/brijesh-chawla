@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brijesh-chawla
 - 👀 I’m interested in photography, c#, aws
-- 🌱 I’m currently learning aws
-- 💞️ I’m looking to collaborate on learning advanced aws
+- 🌱 I’m currently learning proxmox
+- 💞️ I’m looking to collaborate on home lab
 - 📫 How to reach me -> email
 
 <!---
